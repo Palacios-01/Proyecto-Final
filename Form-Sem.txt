@@ -1,0 +1,20 @@
+<html>
+    <title>Formulario de Compra</title>
+<form>
+     <body background='background.png'></body>
+    <div class="seccion">
+      <h4>Datos personales</h4>
+      <p>Nombre: <input type="text" name="nombre" /></p>
+      <p>Apellido <input type="text" name="apellido" /></p>
+        <h4>Desea el servicio de delivery?</h4>
+      <p><input type="radio" name="sexo" value="hombre" />Si</p>
+      <p><input type="radio" name="sexo" value="mujer" />No, lo paso a buscar.</p>  
+      <h4>Si su respuesta fue si, escriba detalladamente su dirección,</h4>
+        <p><textarea  name="descripcion">Aqui</textarea>
+      
+    </div>
+    </form>
+    <center><form action="factura.html">
+        <input type="submit" value="Factura de Compra" />
+       </form></center>
+</html>

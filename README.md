@@ -193,8 +193,6 @@
     </div>
 
 </body>
-</html>
-<html>
     <title>Formulario de Compra</title>
 <form>
      <body background='background.png'></body>
@@ -213,4 +211,42 @@
     <center><form action="factura.html">
         <input type="submit" value="Factura de Compra" />
        </form></center>
+    <title>Factura</title>
+<body background='background.png'></body>
+    <center><h1>Factura</h1></center>
+<h1>Palacios de las Medicinas</h1>
+   
+<table class="egt">
+ <TABLE WIDTH="150%">
+  <tr>
+    <th></th>
+    <th>Fecha</th>
+    <th>31/12/2019</th>
+      </tr>
+
+  <tr>
+    <td>Nombre</td>
+    <td>Cantidad</td>
+    <td></td>
+      </tr>
+
+  <tr>
+    <td>Productos</td>
+    <td></td>
+    <td></td>
+      </tr>
+
+  <tr>
+    <td>Pre-Total</td>
+    <td></td>
+    <td>Itbms</td>
+      </tr>
+     <tr>
+     <td></td>
+         <td></td>
+         <td>Total a Pagar:</td>
+     </tr>
+
+</table>
+    
 </html>

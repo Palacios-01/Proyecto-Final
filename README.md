@@ -1,6 +1,4 @@
-# Proyecto-Final
 <html>
-    <title>Proyecto Final</title>
 <head>
     <h1><strong><big><center>Palacio de las Medicinas</center></big></strong></h1>
   
